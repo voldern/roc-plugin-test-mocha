@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/voldern/roc-plugin-test-mocha.git"
   },
   "dependencies": {
     "babel-plugin-istanbul": "^2.0.1",
